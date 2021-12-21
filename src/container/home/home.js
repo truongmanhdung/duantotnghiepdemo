@@ -10,7 +10,7 @@ function Home(props) {
     }
     return (
         <div>
-            <p>Đây là home page</p>
+            <p>Xin chao toi la home page</p>
             <button onClick={handleClick}>click</button>
         </div>
     )
